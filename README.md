@@ -4,7 +4,7 @@ Esse sistema foi elaborado com funções para auxiliar na administração de um 
 - Cadastrar e gerenciar cadastro de hóspedes
 - Cadastrar e gerenciar  quartos
 - Cadastrar e gerenciar cadastro de funcionários
-- Realizar e gerenciar Chech-IN e Check-OUT
+- Realizar e gerenciar Check-IN e Check-OUT
 - Buscar Relatórios de RH, Financeiros, Reservas e Consumos
 
 ## Tecnologia Utilizada
